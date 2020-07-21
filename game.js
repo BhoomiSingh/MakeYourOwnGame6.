@@ -40,7 +40,7 @@ class Game{
         player.sprite.visible = false;
         ground.visible = false;
         textSize(30);
-        text ("You are Nova who is going to the castel but on your way there",width/2-700,height/2);
+        text ("You are Nova who is going to the castle but on your way there",width/2-700,height/2);
         text("you meet the devil wolf and his master,",width/2-200,height/2+50);
         text("to save your life you have to avoid them", width/2-700,height/2+100);
         text("but if they touch you just once you will be dead", width/2-300,height/2+150);
